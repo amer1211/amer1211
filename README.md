@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hallo, ich bin Amro Alhazouri
 
-<!--
-**amer1211/amer1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
+Ich studiere Informatik an der TU Darmstadt und beschäftige mich mit Themen wie Bildverarbeitung, Machine Learning, Softwareentwicklung und agilen Methoden. Meine Projekte reichen von der Analyse von Pflanzenzellen über Prognosemodelle für Fußballspiele bis hin zu numerischen Simulationen mathematischer Modelle.
 
-Here are some ideas to get you started:
+## Projekte
+- **PlantCellCounter:** Automatisierte Zählung von Pflanzenzellen mit Python und OpenCV
+- **Premier League Predictor:** Web Scraping und Machine Learning für Fußballprognosen
+- **Computing for Social Good:** Software-Entwicklungsframework mit Fokus auf agile Entwicklung und UX/UI
+- **Serious Games:** Spieleentwicklung mit Schwerpunkt auf interaktiven Anwendungen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologien & Skills
+- Programmiersprachen: Python, C++, Java, SQL, ARM Assembler
+- Frameworks & Tools: OpenCV, Matplotlib, BeautifulSoup, Figma, RandomForest, ...
+- Methoden: Agile Entwicklung, Teamarbeit, UX/UI-Design
+
+
+
