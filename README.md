@@ -11,11 +11,10 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 | Projekt | Beschreibung | Schwerpunkte |
 | :--- | :--- | :--- |
 | **[PlantCellCounter](https://github.com/birkchristian/TPSE_PlantCellCounter/blob/feature/fresh-start-v2/Amro_ReadMe.md)** | Desktop-App zur Pflanzenzellenzählung. Meine Rolle: Cellpose-Deep-Learning-Inferenz, OpenCV Image Loader & GUI-Backend-Integration. | `Python`, `Cellpose`, `OpenCV` |
-| **[Premier League Predictor](https://github.com/amer1211/PremierLeague_Predictor)** | Web Scraping und Machine Learning für datengetriebene Fußballprognosen. | `Python`, `Scikit-Learn`, `BS4` |
 | **[Computing for Social Good](#)** | Software-Entwicklungsframework mit starkem Fokus auf agile Entwicklung. | `Agile`, `UX/UI`, `Figma` |
 | **[Serious Games](#)** | Spieleentwicklung mit dem Schwerpunkt auf interaktiven, lehrreichen Anwendungen. | `Game Dev`, `C++`/`Java` |
 
-*(Tipp: Klick auf die Projektnamen, um direkt zu den Repositories zu gelangen!)*
+* Klick auf PlantCellcounter um auf die Repository readme zu kommen*
 
 ---
 
@@ -25,7 +24,6 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ARM Assembler](https://img.shields.io/badge/ARM_Assembler-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ### ⚙️ Frameworks & Tools
@@ -40,5 +38,4 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 
 ## 📫 Lass uns vernetzen!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](HIER_DEIN_LINKEDIN_LINK_EINTRAGEN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HIER_DEINE_EMAIL_EINTRAGEN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amerhazzouri@gmail.com)
