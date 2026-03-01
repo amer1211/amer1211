@@ -10,7 +10,7 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 
 | Projekt | Beschreibung | Schwerpunkte |
 | :--- | :--- | :--- |
-|| **[PlantCellCounter](https://github.com/birkchristian/TPSE_PlantCellCounter/blob/feature/fresh-start-v2/Amro_ReadMe.md)** | Desktop-App zur Pflanzenzellenzählung. Meine Rolle: Cellpose-Deep-Learning-Inferenz, OpenCV Image Loader & GUI-Backend-Integration. | `Python`, `Cellpose`, `OpenCV` |
+| **[PlantCellCounter](https://github.com/birkchristian/TPSE_PlantCellCounter/blob/feature/fresh-start-v2/Amro_ReadMe.md)** | Desktop-App zur Pflanzenzellenzählung. Meine Rolle: Cellpose-Deep-Learning-Inferenz, OpenCV Image Loader & GUI-Backend-Integration. | `Python`, `Cellpose`, `OpenCV` |
 | **[Premier League Predictor](https://github.com/amer1211/PremierLeague_Predictor)** | Web Scraping und Machine Learning für datengetriebene Fußballprognosen. | `Python`, `Scikit-Learn`, `BS4` |
 | **[Computing for Social Good](#)** | Software-Entwicklungsframework mit starkem Fokus auf agile Entwicklung. | `Agile`, `UX/UI`, `Figma` |
 | **[Serious Games](#)** | Spieleentwicklung mit dem Schwerpunkt auf interaktiven, lehrreichen Anwendungen. | `Game Dev`, `C++`/`Java` |
