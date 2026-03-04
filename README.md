@@ -26,8 +26,7 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![ARM Assembler](https://img.shields.io/badge/ARM_Assembler-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![JavaScript]([https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
-### ⚙️ Frameworks & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)### ⚙️ Frameworks & Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 `Matplotlib` • `BeautifulSoup` • `RandomForest`
