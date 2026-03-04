@@ -41,4 +41,4 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 ## 📫 Lass uns vernetzen!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amerhazzouri@gmail.com)
-add to my readme the project
+
