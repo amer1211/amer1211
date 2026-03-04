@@ -15,7 +15,7 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 | **[Computing for Social Good](#)** | Software-Entwicklungsframework mit starkem Fokus auf agile Entwicklung. | `Agile`, `UX/UI`, `Figma` |
 | **[Serious Games](#)** | Spieleentwicklung mit dem Schwerpunkt auf interaktiven, lehrreichen Anwendungen. | `Game Dev`, `C++`/`Java` |
 
-* Klick auf PlantCellcounter um auf die Repository readme zu kommen*
+
 
 ---
 
