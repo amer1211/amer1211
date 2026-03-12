@@ -11,7 +11,7 @@ Willkommen auf meinem GitHub-Profil! Ich beschäftige mich aktuell mit Bildverar
 | Projekt | Beschreibung | Schwerpunkte |
 | :--- | :--- | :--- |
 | **[Web-based Chess](https://github.com/amer1211/Web-based-Chess)** | Full-Stack-Schachanwendung mit Spring Boot REST Backend und interaktiver JavaScript-Oberfläche. Implementiert vollständige Schachregeln, API-Endpunkte und modernes UI. | `java`,`Spring Boot`,`REST API`,`JavaScript`|
-| **[PlantCellCounter](https://github.com/birkchristian/TPSE_PlantCellCounter/blob/feature/fresh-start-v2/Amro_ReadMe.md)** | Desktop-App zur Pflanzenzellenzählung. Meine Rolle: Cellpose-Deep-Learning-Inferenz, OpenCV Image Loader & GUI-Backend-Integration. | `Python`, `Cellpose`, `OpenCV` |
+| **[PlantCellCounter](#)** | Desktop-App zur Pflanzenzellenzählung. Meine Rolle: Cellpose-Deep-Learning-Inferenz, OpenCV Image Loader & GUI-Backend-Integration. | `Python`, `Cellpose`, `OpenCV` |
 | **[Computing for Social Good](#)** | Software-Entwicklungsframework mit starkem Fokus auf agile Entwicklung. | `Agile`, `UX/UI`, `Figma` |
 | **[Serious Games](#)** | Spieleentwicklung mit dem Schwerpunkt auf interaktiven, lehrreichen Anwendungen. | `Game Dev`, `C++`/`Java` |
 
